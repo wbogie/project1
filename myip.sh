@@ -1,3 +1,6 @@
 #!/bin/zsh
 
-curl ifconfig.me
+# install file
+
+echo install
+
